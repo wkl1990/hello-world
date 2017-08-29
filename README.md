@@ -1,8 +1,8 @@
 # hello-world
 ## Test in github
 
-I have change it!
+I have changed it!
 
 ## Edit use dillinger
 
-I have chang it.
+I have changed it.
